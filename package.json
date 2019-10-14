@@ -1,0 +1,23 @@
+{
+  "name": "gradient_background_color_picker_tool",
+  "version": "1.0.0",
+  "description": "A linear gradient background color picker",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/likhitanuraag/Gradient_Background_color_picker_tool.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/likhitanuraag/Gradient_Background_color_picker_tool/issues"
+  },
+  "homepage": "https://github.com/likhitanuraag/Gradient_Background_color_picker_tool#readme",
+  "dependencies": {
+    "loadash": "^1.0.0",
+    "lodash": "^4.17.15"
+  }
+}

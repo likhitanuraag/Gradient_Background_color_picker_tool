@@ -1,3 +1,6 @@
+import { without } from 'loadash';
+
+console.log(without);
 var color1 = document.querySelector(".color1");
 var color2 = document.querySelector(".color2");
 var css = document.querySelector("h3");
